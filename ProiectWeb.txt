@@ -1,0 +1,25 @@
+aplicatie - tema de pe git - backend/frontend in readme
+
+exista fis config pt conexiune bd
+crud pt fiecare tabel
+
+pe git repository
+
+Gallery art -> 	-se pot posta poze cu opere de arta, acestea se pot vota, si sa fie un top 30 tablouri pe site. 
+		-se pot cumpara la un bid. 
+		-limita de marime la imagine
+
+Date tehnice: 
+	   - elefant sql - hostam baza de date
+	   - functie de seach pt gasire useri/tablouri(cauti substring)
+	   - imaginile au nume/categorie/toggle(daca s.a postat sau e in asteptare de confirmare de la admin)
+
+Cont Admin - blocheaza useri/sterge postari(poze/comentarii)
+	   - aproba postari cu tablouri
+
+Cont User - poate pune poze
+	  - da ratings(1-5, rezultatul in float 2 zecimale maxim)/comentarii
+	  - private message
+	  - poate avea avatar
+
+Inregistrare: - email/nume/parola
